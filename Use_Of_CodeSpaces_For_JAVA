@@ -1,0 +1,53 @@
+start codeSpaces 
+1) create a new repo open : code -> codeSpaces -> in main
+2) create new folder create code file 
+3)
+ @prajwalbagewadi ➜ /workspaces/TYBCA_JAVA_SEM_05 (main) $ wget https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.deb
+--2024-05-19 07:12:53--  https://download.oracle.com/java/21/latest/jdk-21_linux-x64_bin.deb
+Resolving download.oracle.com (download.oracle.com)... 23.212.160.83
+Connecting to download.oracle.com (download.oracle.com)|23.212.160.83|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167889048 (160M) [text/plain]
+Saving to: ‘jdk-21_linux-x64_bin.deb’
+
+jdk-21_linux-x64_bi 100%[=================>] 160.11M  64.9MB/s    in 2.5s    
+
+2024-05-19 07:12:57 (64.9 MB/s) - ‘jdk-21_linux-x64_bin.deb’ saved [167889048/167889048]
+
+@prajwalbagewadi ➜ /workspaces/TYBCA_JAVA_SEM_05 (main) $ sudo dpkg -i jdk-21_linux-x64_bin.deb 
+Selecting previously unselected package jdk-21.
+(Reading database ... 69952 files and directories currently installed.)
+Preparing to unpack jdk-21_linux-x64_bin.deb ...
+Unpacking jdk-21 (21.0.3-ga) ...
+Setting up jdk-21 (21.0.3-ga) ...
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jar to provide /usr/bin/jar (jar) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jarsigner to provide /usr/bin/jarsigner (jarsigner) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/java to provide /usr/bin/java (java) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/javac to provide /usr/bin/javac (javac) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/javadoc to provide /usr/bin/javadoc (javadoc) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/javap to provide /usr/bin/javap (javap) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jcmd to provide /usr/bin/jcmd (jcmd) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jconsole to provide /usr/bin/jconsole (jconsole) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jdb to provide /usr/bin/jdb (jdb) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jdeprscan to provide /usr/bin/jdeprscan (jdeprscan) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jdeps to provide /usr/bin/jdeps (jdeps) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jfr to provide /usr/bin/jfr (jfr) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jhsdb to provide /usr/bin/jhsdb (jhsdb) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jimage to provide /usr/bin/jimage (jimage) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jinfo to provide /usr/bin/jinfo (jinfo) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jlink to provide /usr/bin/jlink (jlink) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jmap to provide /usr/bin/jmap (jmap) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jmod to provide /usr/bin/jmod (jmod) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jpackage to provide /usr/bin/jpackage (jpackage) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jps to provide /usr/bin/jps (jps) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jrunscript to provide /usr/bin/jrunscript (jrunscript) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jshell to provide /usr/bin/jshell (jshell) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jstack to provide /usr/bin/jstack (jstack) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jstat to provide /usr/bin/jstat (jstat) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jstatd to provide /usr/bin/jstatd (jstatd) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/jwebserver to provide /usr/bin/jwebserver (jwebserver) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/keytool to provide /usr/bin/keytool (keytool) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/rmiregistry to provide /usr/bin/rmiregistry (rmiregistry) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/bin/serialver to provide /usr/bin/serialver (serialver) in auto mode
+update-alternatives: using /usr/lib/jvm/jdk-21-oracle-x64/lib/jexec to provide /usr/bin/jexec (jexec) in auto mode
+@prajwalbagewadi ➜ /workspaces/TYBCA_JAVA_SEM_05 (main) $ 
