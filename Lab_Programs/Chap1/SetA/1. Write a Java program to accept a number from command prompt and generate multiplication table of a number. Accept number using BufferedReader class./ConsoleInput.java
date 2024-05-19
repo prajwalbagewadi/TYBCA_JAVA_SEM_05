@@ -6,8 +6,7 @@ multiplication table of a number. Accept number using BufferedReader class.
 import java.lang.*;
 import java.util.*;
 import java.io.*;
-// package to import exception package
-import java.lang.Exception.*;
+import java.lang.Exception.*; // package to import exception Class
 class ConsoleInput{
     public void process() throws IOException{
         /*  
