@@ -1,0 +1,30 @@
+cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1/" && javac MyNumber.java && java MyNumber
+@prajwalbagewadi ➜ /workspaces/TYBCA_JAVA_SEM_05 (main) $ cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1/" && javac MyNumber.java && java MyNumber
+No Arguments
+@prajwalbagewadi ➜ .../TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1 (main) $ cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1/" && javac MyNumber.java && java MyNumber -8 1
+Number Detective:
+1.to check if number is Negative:
+2.to check if number is Positive:
+3.to check if number is Odd:
+4.to check if number is Even:
+5.to Exit:
+-22is Negative Number
+@prajwalbagewadi ➜ .../TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1 (main) $ cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1/" && javac MyNumber.java && java MyNumber
+No Arguments
+@prajwalbagewadi ➜ .../TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1 (main) $ cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1/" && javac MyNumber.java && java MyNumber -2 1
+Number Detective:
+1.to check if number is Negative:
+2.to check if number is Positive:
+3.to check if number is Odd:
+4.to check if number is Even:
+5.to Exit:
+-28is Negative Number
+@prajwalbagewadi ➜ .../TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1 (main) $ cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1/" && javac MyNumber.java && java MyNumber 2 4
+Number Detective:
+1.to check if number is Negative:
+2.to check if number is Positive:
+3.to check if number is Odd:
+4.to check if number is Even:
+5.to Exit:
+2is Even Number
+@prajwalbagewadi ➜ .../TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q1 (main) $ 
