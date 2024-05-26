@@ -1,0 +1,39 @@
+cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q2/" && javac Employee.java && java Employee
+@prajwalbagewadi ➜ /workspaces/TYBCA_JAVA_SEM_05 (main) $ cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q2/" && javac Employee.java && java Employee
+Enter the emp name:
+kajal
+Enter the emp sal:
+2000000
+Enter the emp name:
+prajwal
+Enter the emp sal:
+20000
+Enter the emp name:
+abc
+Enter the emp sal:
+200
+Enter the emp name:
+cde
+Enter the emp sal:
+340
+Enter the emp name:
+sde
+Enter the emp sal:
+345
+Emp Detials:
+Emp Name=kajal
+Emp Sal=2000000.0
+Emp Detials:
+Emp Name=prajwal
+Emp Sal=20000.0
+Emp Detials:
+Emp Name=abc
+Emp Sal=200.0
+Emp Detials:
+Emp Name=cde
+Emp Sal=340.0
+Emp Detials:
+Emp Name=sde
+Emp Sal=345.0
+Count=5
+@prajwalbagewadi ➜ .../TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q2 (main) $ 
