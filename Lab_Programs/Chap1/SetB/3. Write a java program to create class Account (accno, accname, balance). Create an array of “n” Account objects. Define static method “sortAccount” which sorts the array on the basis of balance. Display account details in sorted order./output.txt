@@ -1,0 +1,35 @@
+cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q3/" && javac Account.java && java Account
+@prajwalbagewadi ➜ /workspaces/TYBCA_JAVA_SEM_05 (main) $ cd "/workspaces/TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q3/" && javac Account.java && java Account
+enter No of Accounts:
+3
+Account Details:
+Enter Account No:
+1
+Enter Account Holders Name:
+kajal
+Enter Account Balance:
+97000
+Account Details:
+Enter Account No:
+3
+Enter Account Holders Name:
+prajwal
+Enter Account Balance:
+50000
+Account Details:
+Enter Account No:
+2
+Enter Account Holders Name:
+Avani
+Enter Account Balance:
+80000
+Acc_no=3
+Acc_name=prajwal
+Acc_bal=50000.0
+Acc_no=2
+Acc_name=Avani
+Acc_bal=80000.0
+Acc_no=1
+Acc_name=kajal
+Acc_bal=97000.0
+@prajwalbagewadi ➜ .../TYBCA_JAVA_SEM_05/Chap1_setA/Chap1_SETB/Q3 (main) $ 
