@@ -10,9 +10,9 @@ Default: Only accessible within the package. Cannot be accessed from outside the
 Private: Only accessible within the class. Cannot be accessed from outside the class.
 */
 
-import java.lang.*;
+//import java.lang.*;
 import java.util.Scanner;
-import java.io.*;
+//import java.io.*;
 
 
 public class MyDate{
@@ -97,13 +97,17 @@ public class MyDate{
     int d,m,y;
     System.out.print("Enter Date in format:");
     Scanner sc = new Scanner(System.in);
+    System.out.print("Enter Date : day:");
     d=sc.nextInt();
+    System.out.print("Enter Date : month :");
     m=sc.nextInt();
+    System.out.print("Enter Date : year :");
     y=sc.nextInt();
 
     MyDate obj1=new MyDate();
     MyDate obj2=new MyDate(d,m,y);
     obj1.showDate();
     obj2.showDate();
+    sc.close();
   }
 }
