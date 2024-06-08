@@ -60,14 +60,14 @@ public class Person { // create the Person.java in package
     }
     public Person(int id,String name,int d,int m,int y){
         //Parametrized Constructor
-        this.id=Integer.valueOf(generate());
+        this.id=Integer.valueOf(generate()); //string to int
         this.name=name;
         this.dob=new MyDate(d,m,y);
         this.counter();
     }
     public Person(Perobj obj){
         obj=Accept();
-        this.id=Integer.valueOf(generate()); // to modify 
+        this.id=Integer.valueOf(generate()); // to modify //string to int
         this.dob=obj.date;
         this.name=obj.Name;
         this.counter();
