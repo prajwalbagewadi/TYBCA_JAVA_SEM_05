@@ -1,0 +1,16 @@
+SET C
+1. Define a class Person (id, name, dateofbirth). For dateofbirth create an object of MyDate
+class which is created in SET A 4. Define default and parameterized constructor. Also
+define accept and display function in Person and MyDate class. Call constructor and
+function of MyDate class from Person class for dateofbirth. Generate id automatically
+using static variable. Accept the details of n person and display the details.
+Sample code:
+public class Person
+{
+private int id;
+private String name;
+private MyDate dob;
+private static int cnt=1;
+-------
+-------
+}
