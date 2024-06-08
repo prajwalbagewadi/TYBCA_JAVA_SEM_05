@@ -1,0 +1,33 @@
+run:
+Enter Number of Person's:
+2
+Enter Person Details
+Person name:
+Kajal
+Person Dob:
+Enter day:
+21
+Enter month:
+08
+Enter year:
+2001
+Enter Person Details
+Person name:
+prajwal
+Person Dob:
+Enter day:
+14
+Enter month:
+07
+Enter year:
+1999
+Person Details:
+Person id:1600
+Person name:Kajal
+Person Dob:21 8 2001
+Person Details:
+Person id:481
+Person name:prajwal
+Person Dob:14 7 1999
+Number of Person's:2
+BUILD SUCCESSFUL (total time: 29 seconds)
