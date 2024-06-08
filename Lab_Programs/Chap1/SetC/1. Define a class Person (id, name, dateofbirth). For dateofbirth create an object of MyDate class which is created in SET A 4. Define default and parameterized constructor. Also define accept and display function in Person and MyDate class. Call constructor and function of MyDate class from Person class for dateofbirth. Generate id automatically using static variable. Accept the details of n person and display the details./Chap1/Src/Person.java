@@ -16,11 +16,11 @@ private static int cnt=1;
 }
 */
 
-package SetC;
+package SetC; // create a java project and package with name SetC
 import java.lang.*;
 import java.util.*;
 //import java.io.*;
-import SetC.MyDate;
+import SetC.MyDate;  // add the MyDate.java to the package 
 
 class Perobj{ 
     // class to get Return object 
@@ -35,7 +35,7 @@ class Perobj{
     }
 }
 
-public class Person {
+public class Person { // create the Person.java in package
     private int id;String name;MyDate dob;
     private static int cnt=0; // static var
     public Perobj object;
