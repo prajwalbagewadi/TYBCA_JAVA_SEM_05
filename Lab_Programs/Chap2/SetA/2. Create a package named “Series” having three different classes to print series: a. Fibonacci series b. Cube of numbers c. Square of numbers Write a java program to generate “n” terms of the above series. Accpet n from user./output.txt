@@ -1,0 +1,21 @@
+run:
+Enter Series limit N:
+3
+Fibonacci_Series:
+ans0
+ans1
+ans1
+ans2
+ans3
+
+Cube of a number_Series:
+cube=1=1
+cube=2=8
+cube=3=27
+
+Square of a number_Series:
+Square=1=1
+Square=2=4
+Square=3=9
+
+BUILD SUCCESSFUL (total time: 3 seconds)
