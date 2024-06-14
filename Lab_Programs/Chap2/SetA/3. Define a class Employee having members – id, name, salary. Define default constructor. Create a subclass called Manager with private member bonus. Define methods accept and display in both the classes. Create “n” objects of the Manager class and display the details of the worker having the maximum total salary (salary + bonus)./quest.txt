@@ -1,0 +1,4 @@
+3. Define a class Employee having members – id, name, salary. Define default constructor.
+Create a subclass called Manager with private member bonus. Define methods accept and
+display in both the classes. Create “n” objects of the Manager class and display the details
+of the worker having the maximum total salary (salary + bonus).
