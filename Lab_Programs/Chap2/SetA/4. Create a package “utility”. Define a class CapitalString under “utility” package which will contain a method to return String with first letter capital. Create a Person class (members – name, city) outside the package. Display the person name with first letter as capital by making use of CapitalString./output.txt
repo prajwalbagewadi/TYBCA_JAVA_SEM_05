@@ -1,0 +1,9 @@
+run:
+Name:prajwal
+city:pune
+result=Prajwal
+result=Pune
+Person Details:
+Person_Name:Prajwal
+Person_city:Pune
+BUILD SUCCESSFUL (total time: 0 seconds)
