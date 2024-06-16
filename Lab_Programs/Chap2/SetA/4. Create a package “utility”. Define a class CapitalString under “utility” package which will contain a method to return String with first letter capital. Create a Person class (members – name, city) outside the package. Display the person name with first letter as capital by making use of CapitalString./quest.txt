@@ -1,0 +1,4 @@
+4. Create a package “utility”. Define a class CapitalString under “utility” package which will
+contain a method to return String with first letter capital. Create a Person class (members
+– name, city) outside the package. Display the person name with first letter as capital by
+making use of CapitalString.
