@@ -77,7 +77,7 @@ class Cyclinder implements Operation{
         System.out.println("Volume of Cyclinder="+(PI*this.radius*this.radius*this.height));
     }
 }
-public class Q2{
+public class Q1{
     public static void main(String[] args){
         Circle obj1=new Circle(4);
         obj1.area();
