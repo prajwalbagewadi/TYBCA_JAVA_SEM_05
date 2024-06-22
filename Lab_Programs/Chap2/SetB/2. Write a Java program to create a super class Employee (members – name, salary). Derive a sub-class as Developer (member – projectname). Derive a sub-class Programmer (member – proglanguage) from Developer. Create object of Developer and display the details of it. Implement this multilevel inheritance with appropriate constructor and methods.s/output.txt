@@ -1,0 +1,16 @@
+Enter Employee name:
+abc
+Enter Employee salary:
+2300
+Developer ProjectName:
+chatbot
+Programmer progLanguage:
+python
+Employee Class:
+Emp name=abc
+Emp salary=2300.0
+Developer Class:
+Dev projectname=chatbot
+Programmer Class:
+Prog proglanguage=python
+BUILD SUCCESSFUL (total time: 28 seconds)
