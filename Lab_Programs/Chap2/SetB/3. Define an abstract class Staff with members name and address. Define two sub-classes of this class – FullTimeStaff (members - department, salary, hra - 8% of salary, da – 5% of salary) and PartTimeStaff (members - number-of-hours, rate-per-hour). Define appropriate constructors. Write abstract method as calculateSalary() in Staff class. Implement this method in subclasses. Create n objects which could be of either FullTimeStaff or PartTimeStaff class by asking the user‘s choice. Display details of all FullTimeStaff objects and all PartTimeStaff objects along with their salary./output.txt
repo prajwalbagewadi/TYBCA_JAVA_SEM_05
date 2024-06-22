@@ -1,0 +1,75 @@
+run:
+1. FullTimeStaff.
+2. PartTimeStaff.
+3. Exit.
+Select Option:
+1
+Enter Staff Name:
+Prajwal
+Enter Staff address:
+IND
+Enter Staff dept:
+SDE
+Enter Staff salary:
+12000
+1. FullTimeStaff.
+2. PartTimeStaff.
+3. Exit.
+Select Option:
+2
+Enter Staff Name:
+Ruth
+Enter Staff address:
+USA
+Enter Staff no of Hrs:
+240
+Enter Staff rate per hr:
+450
+1. FullTimeStaff.
+2. PartTimeStaff.
+3. Exit.
+Select Option:
+2
+Enter Staff Name:
+Mike
+Enter Staff address:
+USA
+Enter Staff no of Hrs:
+230
+Enter Staff rate per hr:
+340
+1. FullTimeStaff.
+2. PartTimeStaff.
+3. Exit.
+Select Option:
+3
+input Exit.
+FullTimeStaff:
+Staff Details:
+Staff name:Prajwal
+Staff addr:IND
+FullTimeStaff dept:SDE
+Salary_FullTimeStaff:
+Base salary=12000.0
+HRA=0.08%
+DA=0.05%
+HRA=960.0
+DA=600.0
+Total salary=13560.0
+PartTimeStaff:
+Staff Details:
+Staff name:Ruth
+Staff addr:USA
+Salary_PartTimeStaff:
+No of hrs=240.0
+Rate per hr=450.0
+Total salary=108000.0
+PartTimeStaff:
+Staff Details:
+Staff name:Mike
+Staff addr:USA
+Salary_PartTimeStaff:
+No of hrs=230.0
+Rate per hr=340.0
+Total salary=78200.0
+BUILD SUCCESSFUL (total time: 5 minutes 23 seconds)
