@@ -1,0 +1,107 @@
+run:
+1
+---Silver Card Customer---
+Customer name:
+Prajwal N Bagewadi
+rnd_no=7606477086383453
+---END---
+2
+---Silver Card Customer---
+Card Name:Prajwal N Bagewadi
+Card No:7606477086383453
+Credit amount=0.0
+Credit Card Limit=50000.0
+---END---
+3
+---Use_Card---
+Enter the Amount To Use:
+35000
+Amount Successfully Added On Card=35000.0
+---Silver Card Customer---
+Card Name:Prajwal N Bagewadi
+Card No:7606477086383453
+Credit amount=35000.0
+Credit Card Limit=50000.0
+---END---
+---END---
+4
+---Pay_Credit---
+Enter the Amount To Pay:
+25000
+Amount Successfully Subtracted On Card=25000.0
+---Silver Card Customer---
+Card Name:Prajwal N Bagewadi
+Card No:7606477086383453
+Credit amount=10000.0
+Credit Card Limit=50000.0
+---END---
+---END---
+5
+---Silver Card Customer---
+Service Not Available!
+---END---
+6
+---Silver Card Customer---
+Card Name:Prajwal N Bagewadi
+Card No:7606477086383453
+Credit amount=10000.0
+Credit Card Limit=50000.0
+---END---
+7
+---Silver Card Customer---
+Customer name:
+0
+rnd_no=2304717142594780
+---END---
+---Gold Card Customer---
+Customer name:
+Kajal P B
+rnd_no=4923026091207065
+---END---
+8
+---Gold Card Customer---
+Card Name:Kajal P B
+Card No:4923026091207065
+Credit Card Amount=0.0
+Credit Card Limit=100000.0
+---END---
+9
+---Use_Card---
+Enter the Amount To Use:
+23000
+Amount Successfully Added On Card=23000.0
+---Gold Card Customer---
+Card Name:Kajal P B
+Card No:4923026091207065
+Credit Card Amount=23000.0
+Credit Card Limit=100000.0
+---END---
+---END---
+10
+---Pay_Credit---
+Enter the Amount To Pay:
+23000
+Amount Successfully Subtracted On Card=23000.0
+---Gold Card Customer---
+Card Name:Kajal P B
+Card No:4923026091207065
+Credit Card Amount=0.0
+Credit Card Limit=100000.0
+---END---
+---END---
+11
+---Increase_Limit---
+Enter the Amount To Increase Credit Limit:
+3450
+---Gold Card Customer---
+card limit Successfully Increased by Entered amt=3450.0
+Number of Times Remaining=2
+---END---
+12
+---Gold Card Customer---
+Card Name:Kajal P B
+Card No:4923026091207065
+Credit Card Amount=0.0
+Credit Card Limit=103450.0
+---END---
+BUILD SUCCESSFUL (total time: 1 minute 36 seconds)
