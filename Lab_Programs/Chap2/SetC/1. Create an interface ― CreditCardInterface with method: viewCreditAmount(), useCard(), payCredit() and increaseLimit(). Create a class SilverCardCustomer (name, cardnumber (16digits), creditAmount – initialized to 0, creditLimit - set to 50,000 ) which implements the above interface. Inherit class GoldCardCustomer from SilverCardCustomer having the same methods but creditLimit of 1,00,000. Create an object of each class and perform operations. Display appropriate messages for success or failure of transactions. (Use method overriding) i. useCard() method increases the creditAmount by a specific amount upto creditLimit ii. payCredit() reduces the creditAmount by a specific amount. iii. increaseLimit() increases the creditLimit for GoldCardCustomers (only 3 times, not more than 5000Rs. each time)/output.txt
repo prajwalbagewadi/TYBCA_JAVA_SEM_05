@@ -52,6 +52,11 @@ Credit Card Limit=50000.0
 Customer name:
 0
 rnd_no=2304717142594780
+/*
+In Java, when you create an instance of a subclass, 
+the constructor of the superclass is called first. 
+This happens to ensure that the subclass can inherit the properties and behaviors of the superclass properly.
+*/
 ---END---
 ---Gold Card Customer---
 Customer name:
