@@ -1,0 +1,13 @@
+run:
+ilist=[1, 2, 3]
+temp=1
+temp=2
+temp=3
+ilist=[1, 4, 2, 3]
+ilist=[5, 4, 2, 3]
+ilist=[5, 4, 3]
+ilist Size=3
+543
+sort in Ascending=[3, 4, 5]
+sort in Descending=[5, 4, 3]
+BUILD SUCCESSFUL (total time: 0 seconds)
