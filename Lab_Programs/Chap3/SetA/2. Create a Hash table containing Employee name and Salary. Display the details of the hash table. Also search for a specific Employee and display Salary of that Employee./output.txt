@@ -1,0 +1,27 @@
+run:
+Enter number of Employees:
+2
+Enter Employee Name and Salary:
+Kajal 320000
+Enter Employee Name and Salary:
+Prajwal 55000
+{Kajal=320000, Prajwal=55000}
+Enter Employee Name to Search:
+Kajal
+Key=true
+Salary=320000 of Employee=Kajal
+BUILD SUCCESSFUL (total time: 42 seconds)
+
+run:
+Enter number of Employees:
+2
+Enter Employee Name and Salary:
+Prajwal 34000
+Enter Employee Name and Salary:
+Jaydeep 550000
+{Jaydeep=550000, Prajwal=34000}
+Enter Employee Name to Search:
+Kajal
+Key=false
+Salary=null of Employee=Kajal
+BUILD SUCCESSFUL (total time: 59 seconds)
