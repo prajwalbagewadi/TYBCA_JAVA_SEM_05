@@ -95,7 +95,8 @@ public class Q1{
        */
        //int ind=Collections.binarySearch(convlist, key);
        //System.out.println(ind);
-        if(Collections.binarySearch(convlist, key)!=-1){
+       // returns -5 index. if element not found.
+        if(Collections.binarySearch(convlist, key)>=0){
         System.out.println("binarySearch Method List Element "+key+"is present in List at index:"+Collections.binarySearch(convlist, key));
        }
        else{
