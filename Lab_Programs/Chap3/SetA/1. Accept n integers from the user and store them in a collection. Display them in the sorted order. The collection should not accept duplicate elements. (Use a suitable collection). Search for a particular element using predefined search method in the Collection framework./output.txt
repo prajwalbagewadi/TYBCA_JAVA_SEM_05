@@ -23,3 +23,27 @@ indexOf Method List Element 3is present in List at index:2
 binarySearch Method List Element 3is present in List at index:2
 BUILD SUCCESSFUL (total time: 17 seconds)
 
+run:
+List:
+Enter List Size:
+5
+Enter List Element:
+1
+Enter List Element:
+2
+Enter List Element:
+3
+Enter List Element:
+3
+Enter List Element:
+4
+set=[1, 2, 3, 4]
+list sort in Ascending=[1, 2, 3, 4]
+list sort in Descending=[4, 3, 2, 1]
+Enter the Element to Be Searched:
+5
+contains Method Set Element 5is not present in set
+list=[1, 2, 3, 4]
+indexOf Method List Element 5is not present in List
+binarySearch Method List Element 5is not present in List
+BUILD SUCCESSFUL (total time: 23 seconds)
