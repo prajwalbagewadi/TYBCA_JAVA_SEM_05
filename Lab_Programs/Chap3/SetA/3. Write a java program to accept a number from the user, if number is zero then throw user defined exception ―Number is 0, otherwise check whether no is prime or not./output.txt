@@ -1,0 +1,18 @@
+run:
+Enter number to Check weather Prime or Not:
+0
+!!!Exception!!!:
+Enter num is=0 It cannot be Zero
+BUILD SUCCESSFUL (total time: 2 seconds)
+
+run:
+Enter number to Check weather Prime or Not:
+67
+val=67 is a prime number
+BUILD SUCCESSFUL (total time: 3 seconds)
+
+run:
+Enter number to Check weather Prime or Not:
+100
+val=100 is not a prime number
+BUILD SUCCESSFUL (total time: 2 seconds)
