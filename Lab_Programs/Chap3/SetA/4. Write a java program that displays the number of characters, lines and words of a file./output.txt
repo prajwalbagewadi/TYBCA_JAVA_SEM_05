@@ -1,1 +1,15 @@
+run:
+Java  BufferedReader  class  is  used  to  read  the  text  from  a  character-based  input  stream.  
+
+
+It  can  be  used  to  read  data  line  by  line  by  readLine()  method.  
+
+
+It  makes  the  performance  fast.  It  inherits  Reader  class.
+No_Chars=212
+
+no_words=38
+
+no_lines=3
+BUILD SUCCESSFUL (total time: 0 seconds)
 
