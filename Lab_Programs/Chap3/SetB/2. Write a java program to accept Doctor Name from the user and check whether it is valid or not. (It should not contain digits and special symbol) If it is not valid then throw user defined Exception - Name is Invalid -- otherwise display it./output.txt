@@ -1,0 +1,12 @@
+run:
+Enter Doctor Name:
+Ka3j4a#l
+Name Invalid.
+BUILD SUCCESSFUL (total time: 12 seconds)
+
+run:
+Enter Doctor Name:
+Kajal
+Dr.Kajal
+Name is Valid
+BUILD SUCCESSFUL (total time: 6 seconds)
