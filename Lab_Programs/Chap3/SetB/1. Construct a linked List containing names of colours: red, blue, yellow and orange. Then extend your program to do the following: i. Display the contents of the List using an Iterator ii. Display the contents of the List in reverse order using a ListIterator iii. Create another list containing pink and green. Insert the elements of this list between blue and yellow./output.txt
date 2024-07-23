@@ -1,0 +1,16 @@
+run:
+color_list=[red, blue, yellow, orange]
+Display the contents of the List using an Iterator
+element=red
+element=blue
+element=yellow
+element=orange
+Display the contents of the List in reverse order using a ListIterator
+element=orange
+element=yellow
+element=blue
+element=red
+color_list2=[pink, green]
+index=2
+color_list=[red, blue, pink, green, yellow, orange]
+BUILD SUCCESSFUL (total time: 0 seconds)
