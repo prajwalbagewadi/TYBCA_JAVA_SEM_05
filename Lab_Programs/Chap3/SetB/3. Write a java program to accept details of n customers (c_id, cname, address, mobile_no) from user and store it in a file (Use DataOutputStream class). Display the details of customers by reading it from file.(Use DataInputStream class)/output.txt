@@ -1,0 +1,34 @@
+run:
+Enter No Customers:
+2
+Enter Customer Details:
+Enter Customer id:
+1
+Enter Customer Name:
+Kajal
+Enter Customer Address:
+Amravati
+Enter Customer Mobile_no:
+7498957937
+Enter Customer Details:
+Enter Customer id:
+2
+Enter Customer Name:
+prajwal
+Enter Customer Address:
+Pune
+Enter Customer Mobile_no:
+7498957937
+Data Read from File:
+
+Customer id:1
+Customer Name:Kajal
+Customer Address:Amravati
+Customer Mobile_no:7498957937
+Data Read from File:
+
+Customer id:2
+Customer Name:prajwal
+Customer Address:Pune
+Customer Mobile_no:7498957937
+BUILD SUCCESSFUL (total time: 1 minute 13 seconds)
