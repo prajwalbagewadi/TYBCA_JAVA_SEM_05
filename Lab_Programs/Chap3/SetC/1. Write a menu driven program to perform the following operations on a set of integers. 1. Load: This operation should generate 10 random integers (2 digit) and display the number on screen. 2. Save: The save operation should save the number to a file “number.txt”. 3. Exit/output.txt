@@ -1,0 +1,32 @@
+run:
+Menu:
+1. Load: This operation should generate 10 random integers (2 digit) and display the number on screen.
+2. Save: The save operation should save the number to a file �number.txt�.
+3. Exit
+Select input:
+1
+Random Generated Number=13
+Random Generated Number=76
+Random Generated Number=50
+Random Generated Number=26
+Random Generated Number=79
+Random Generated Number=56
+Random Generated Number=86
+Random Generated Number=23
+Random Generated Number=75
+Random Generated Number=16
+1=13 2=76 3=50 4=26 5=79 6=56 7=86 8=23 9=75 10=16 Menu:
+1. Load: This operation should generate 10 random integers (2 digit) and display the number on screen.
+2. Save: The save operation should save the number to a file �number.txt�.
+3. Exit
+Select input:
+2
+Data Saved in file "number.txt"
+Menu:
+1. Load: This operation should generate 10 random integers (2 digit) and display the number on screen.
+2. Save: The save operation should save the number to a file �number.txt�.
+3. Exit
+Select input:
+3
+Exit.
+BUILD SUCCESSFUL (total time: 11 seconds)
