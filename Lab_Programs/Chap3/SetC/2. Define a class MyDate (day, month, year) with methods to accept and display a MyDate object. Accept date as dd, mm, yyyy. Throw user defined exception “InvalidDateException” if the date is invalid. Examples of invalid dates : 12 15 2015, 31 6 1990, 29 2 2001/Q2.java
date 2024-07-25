@@ -34,13 +34,16 @@ class MyDate{
             if(this.dd>=1 && this.dd<=31){
                 if(this.mm>=1 && this.mm<=12){
                     if(this.yyyy>=1924 && this.yyyy<=2124){
-                        if(this.mm==2 && this.dd<=29){
+                        if(this.mm==2 && this.dd<=29 && /*(this.yyyy%4==0&&this.yyyy%100==0) ||*/ this.yyyy%400==0 ){
                            //throw new InvalidDateException();
                            this.dateDisp();
                         }
 //                        else{
 //                           throw new InvalidDateException("Feb month can have date Greater than > 29"); 
 //                        }
+                        else if(this.mm==2 && this.dd<=28 && /*(this.yyyy%4==0&&this.yyyy%100==0) ||*/ this.yyyy%400!=0){
+                            this.dateDisp();
+                        }
                         else if(this.dd<=31 && (this.mm==1||this.mm==3||this.mm==5||this.mm==7||this.mm==8||this.mm==10||this.mm==12)){
                             //throw new InvalidDateException();
                             this.dateDisp();
