@@ -1,0 +1,72 @@
+run:
+Enter date:
+Enter day dd:
+31
+Enter month mm:
+06
+Enter year yyyy:
+1990
+Invaild Date Entered
+Exception:Chap3SetC_Q2.InvalidDateException
+BUILD SUCCESSFUL (total time: 10 seconds)
+
+run:
+Enter date:
+Enter day dd:
+30
+Enter month mm:
+06
+Enter year yyyy:
+1990
+date:30 6 1990
+BUILD SUCCESSFUL (total time: 9 seconds)
+
+run:
+Enter date:
+Enter day dd:
+12
+Enter month mm:
+15
+Enter year yyyy:
+2015
+Invaild Date Entered
+Exception:Chap3SetC_Q2.InvalidDateException
+BUILD SUCCESSFUL (total time: 9 seconds)
+
+
+//leap year:
+
+run:
+Enter date:
+Enter day dd:
+28
+Enter month mm:
+02
+Enter year yyyy:
+2001
+date:28 2 2001
+BUILD SUCCESSFUL (total time: 10 seconds)
+
+run:
+Enter date:
+Enter day dd:
+29
+Enter month mm:
+02
+Enter year yyyy:
+2001
+Invaild Date Entered
+Exception:Chap3SetC_Q2.InvalidDateException
+BUILD SUCCESSFUL (total time: 7 seconds)
+
+// Birth Day :)
+run:
+Enter date:
+Enter day dd:
+21
+Enter month mm:
+08
+Enter year yyyy:
+2001
+date:21 8 2001
+BUILD SUCCESSFUL (total time: 8 seconds)
