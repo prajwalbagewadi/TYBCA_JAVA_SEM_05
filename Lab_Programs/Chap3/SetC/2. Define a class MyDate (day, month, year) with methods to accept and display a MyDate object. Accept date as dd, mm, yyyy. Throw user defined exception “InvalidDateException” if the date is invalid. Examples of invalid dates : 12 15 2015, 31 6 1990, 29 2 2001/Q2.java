@@ -38,6 +38,23 @@ class MyDate{
                            //throw new InvalidDateException();
                            this.dateDisp();
                         }
+                        /*
+                        public boolean isLeapYear(int year) {
+                        if (year % 4 == 0) {
+                            if (year % 100 == 0) {
+                                if (year % 400 == 0) {
+                                    return true; // Divisible by 4, 100, and 400
+                                } else {
+                                    return false; // Divisible by 4 and 100, but not 400
+                                 }
+                            } else {
+                                    return true; // Divisible by 4, but not 100
+                                }
+                        } else {
+                               return false; // Not divisible by 4
+                            }
+                        }
+                        */
 //                        else{
 //                           throw new InvalidDateException("Feb month can have date Greater than > 29"); 
 //                        }
