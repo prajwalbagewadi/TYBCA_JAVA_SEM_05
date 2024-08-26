@@ -14,36 +14,38 @@ class MyFrame extends JFrame implements ActionListener{
     JLabel jl,jl1,jl2;
     int cntr=0,cntb=0;
     MyFrame(String var){
+        //frame title
         this.setTitle(var);
+        //Button setup
         btn=new JButton("Red Button");
         btn.setBackground(Color.red);
         btn.setForeground(Color.white);
         btn.setBounds(100,100,100,30);
         this.add(btn);
         btn.addActionListener(this);
-        
+        //Button setup
         btn1=new JButton("Blue Button");
         btn1.setBackground(Color.blue);
         btn1.setForeground(Color.white);
         btn1.setBounds(450,100,100,30);
         this.add(btn1);
         btn1.addActionListener(this);
-        
+        //Button setup
         btn2=new JButton("Reset");
         btn2.setBackground(Color.magenta);
         btn2.setForeground(Color.white);
         btn2.setBounds(250,150,100,30);
         this.add(btn2);
         btn2.addActionListener(this);
-        
+        //label for button Action
         jl=new JLabel("Action:");
         jl.setBounds(250,200,300,100);
         this.add(jl);
-        
+        //label for Red button count
         jl1=new JLabel("Count:");
         jl1.setBounds(250,300,300,100);
         this.add(jl1);
-        
+        //label for Blue button count
         jl2=new JLabel("Count:");
         jl2.setBounds(250,400,300,100);
         this.add(jl2);
@@ -77,6 +79,7 @@ class MyFrame extends JFrame implements ActionListener{
 }
 public class SwingExample{
     public static void main(String[] agrs){
+        //frame visualization and set options
         MyFrame f=new MyFrame("Container");
         f.setSize(700,800);
         f.setLocation(100,100);
