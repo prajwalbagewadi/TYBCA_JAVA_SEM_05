@@ -8,7 +8,11 @@ package prog1;
 salary) using PreparedStatement interface. Accept details of Employees from user. [20 
 Marks
  * 
- * 
+ * postgresql database usage:
+ * create database name;
+ * \l list databases;
+ * \c connect database name;
+ * \dt show tables present in database
  */
 import java.lang.*;
 import java.util.Scanner;
