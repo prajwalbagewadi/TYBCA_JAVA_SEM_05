@@ -31,6 +31,16 @@ public class Imp{
         ArrayList<Boolean> BoolList=new ArrayList<Boolean>();
         */
         ArrayList<Integer> ilist=new ArrayList<Integer>(); //Integer Refers to the class of Data to be Stored.
+/*
+ArrayList<Type> list = new ArrayList<>();
+Common Names for <Type>
+Type parameter → official term in Java docs.
+Generic type → because it makes a class/method generic.
+Template type → similar to C++ templates, sometimes developers call it that.
+Placeholder type → because it’s a placeholder for the actual type.
+Formal type parameter → in compiler theory.
+Generic parameter → often used in tutorials.
+*/
         
         //Add element in list 
         //new element is always added at the end of the list
